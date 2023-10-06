@@ -40,7 +40,3 @@ El script genera varios archivos de registro:
 ## Licencia
 
 Este script se proporciona tal cual, sin garantías de ningún tipo. Siéntete libre de utilizarlo y modificarlo según tus necesidades.
-
----
-
-Puedes copiar y pegar este README en un archivo llamado "README.md" en tu repositorio Git para proporcionar información útil sobre el script a los usuarios que accedan a tu proyecto. Asegúrate de personalizar los detalles según tus preferencias y requisitos específicos.
